@@ -354,3 +354,33 @@ a:focus {
 .u-max-width-sm {
 	max-width: 36em;
 }
+
+/*
+    Components: Title
+*/
+
+@media (min-width: 992px) {
+	.c-article__title {
+		width: 100%;
+	}
+}
+
+/*
+    Components: Quote
+*/
+
+.c-quote {
+	color: #00b37d;
+	background-color: #f2faf8;
+	padding: 24px 22px 24px 24px;
+	margin: 48px;
+}
+
+/*
+    Components: Date
+*/
+
+.c-article__date {
+	font-family: 'droid-serif', Georgia, serif;
+	color: #5c6366;
+}
