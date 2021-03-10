@@ -358,10 +358,10 @@ a:focus {
 /*
     Components: Title
 */
-
 @media (min-width: 992px) {
 	.c-article__title {
 		width: 100%;
+		margin: 24px 0;
 	}
 }
 
@@ -373,7 +373,7 @@ a:focus {
 	color: #00b37d;
 	background-color: #f2faf8;
 	padding: 24px 22px 24px 24px;
-	margin: 48px;
+	margin: 48px 0;
 }
 
 /*
